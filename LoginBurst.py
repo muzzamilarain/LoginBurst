@@ -2,6 +2,7 @@ from pyfiglet import figlet_format
 from termcolor import colored 
 import requests
 
+#Follow on LinkedIn if You have got till here.
 
 print(colored(figlet_format("Login Burst", font="big"), "red"))
 print(colored("Educate. Demonstrate. Defend....", "blue"))
